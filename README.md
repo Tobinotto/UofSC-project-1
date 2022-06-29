@@ -1,1 +1,1 @@
-# UofSCProject1
+# UofSC-project-1
